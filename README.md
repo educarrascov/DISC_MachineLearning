@@ -8,10 +8,10 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 __________
-I. Notebook Utilizados:
+## I. Notebook Utilizados:
 
 [A. Introducción a Machine Learning.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.0.%2001Introduccion.ipynb) 
 
 
 __________
-II. Desarrollo de Tareas:
+## II. Desarrollo de Tareas:
