@@ -9,6 +9,7 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
 ## I. Notebook Utilizados en Clases:
-[A. Introducción a Machine Learning.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.0.%2001Introduccion.ipynb) 
+1. [Introducción a Machine Learning.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.0.%2001Introduccion.ipynb)
+2. [Aprendizaje de Ensambles.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/2.1.%20Aprendizaje_de_ensambles.ipynb)
 
 ## II. Desarrollo de Tareas:
