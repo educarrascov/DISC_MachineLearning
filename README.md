@@ -15,4 +15,4 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 4. [Regresión Logística.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.4.%20Ayudant%C3%ADa1.ipynb)
 
 ## II. Desarrollo de Tareas:
-1. [Tarea 1 - Árboles de Decisión.] (https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
+1. [Tarea 1 - Árboles de Decisión.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
