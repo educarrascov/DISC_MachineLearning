@@ -1,0 +1,21 @@
+RPM, Estado Motor
+65, normal 
+70, normal 
+80, normal 
+80, normal 
+80, normal
+90, normal
+95, normal
+105, normal
+100, normal
+110, normal
+105, anormal
+110, anormal
+110, anormal
+120, anormal
+120, anormal
+130, anormal
+140, anormal
+180, anormal
+185, anormal
+190, anormal
