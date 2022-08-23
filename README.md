@@ -9,11 +9,11 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
 ## I. Notebook Utilizados en Clases:
-1. [Introducción a Machine Learning.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.0.%2001Introduccion.ipynb)
-2. [Aprendizaje de Ensambles.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/2.1.%20Aprendizaje_de_ensambles.ipynb)
-3. [Modelos Lineales - Regresión Lineal y Métodos de Regularización (Ayudantía _Parte 1_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.0.%20Modelos_Lineales.ipynb)
-4. [Regresión Logística (Ayudantía _Parte 2_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.4.%20Ayudant%C3%ADa1.ipynb)
-5. [Selección de Modelos](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.0.%2003Seleccion_de_Modelos.ipynb)
+1. [Introducción a Machine Learning (Clase 1).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.0.%2001Introduccion.ipynb)
+2. [Aprendizaje de Ensambles (Clase 2).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/2.1.%20Aprendizaje_de_ensambles.ipynb)
+3. [Modelos Lineales - Regresión Lineal y Métodos de Regularización (Clase 3 - Ayudantía _Parte 1_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.0.%20Modelos_Lineales.ipynb)
+4. [Regresión Logística (Clase 3 - Ayudantía _Parte 2_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.4.%20Ayudant%C3%ADa1.ipynb)
+5. [Selección de Modelos (Clase 4)](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.0.%2003Seleccion_de_Modelos.ipynb)
 
 ## II. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
