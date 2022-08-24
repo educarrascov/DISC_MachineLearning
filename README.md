@@ -16,4 +16,4 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 5. [Selección de Modelos (Clase 4)](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.0.%2003Seleccion_de_Modelos.ipynb)
 
 ## II. Desarrollo de Tareas:
-1. [Tarea 1 - Árboles de Decisión.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
+1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
