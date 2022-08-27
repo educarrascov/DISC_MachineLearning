@@ -14,6 +14,7 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 3. [Modelos Lineales - Regresión Lineal y Métodos de Regularización (Clase 3 - Ayudantía _Parte 1_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.0.%20Modelos_Lineales.ipynb)
 4. [Regresión Logística (Clase 3 - Ayudantía _Parte 2_).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.4.%20Ayudant%C3%ADa1.ipynb)
 5. [Selección de Modelos (Clase 4)](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.0.%2003Seleccion_de_Modelos.ipynb)
+6. [Random Forrest - Adaboosting - Gradient Boosting Machine - EGBM](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.3.%20Ayudantia_2.ipynb)
 
 ## II. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
