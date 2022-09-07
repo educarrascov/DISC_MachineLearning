@@ -17,4 +17,4 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 6. [Random Forrest - Adaboosting - Gradient Boosting Machine - EGBM - Crossval (Ayudantía 2).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.3.%20Ayudantia_2.ipynb)
 
 ## II. Desarrollo de Tareas:
-1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Eduardo_Carrasco.ipynb)
+1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Carrasco_Eduardo.ipynb)
