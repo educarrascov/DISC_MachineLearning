@@ -14,9 +14,11 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 3. [Modelos Lineales - Regresión Lineal/Logística y Métodos de Regularización (Ayudantía 1 Parte 1 ).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.0.%20Modelos_Lineales.ipynb)
 4. [Regresión Logística (Ayudantía 1 Parte 2 ).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/3.4.%20Ayudant%C3%ADa1.ipynb)
 5. [Selección de Modelos (Clase 3 - 4).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.0.%2003Seleccion_de_Modelos.ipynb)
-6. [Random Forrest - Adaboosting - Gradient Boosting Machine - EGBM - Crossval (Ayudantía 2).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.3.%20Ayudantia_2.ipynb)
-7. [Support Vector Machine (Clase 5).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/5.0.%20SVM.ipynb)
-8. []
+6. [Random Forrest - Adaboosting - Gradient Boosting Machine - EGBM - Crossval - GridSearch + CrossValidation (Ayudantía 2).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/4.3.%20Ayudantia_2.ipynb)
+7. [Cross Validation - Shuffle K Fold (Ayudantía 3).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/Ayudantia3.ipynb)
+8. [Support Vector Machine (Clase 5).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/5.0.%20SVM.ipynb)
+9. [Suppor Vector Machine - Grid Search - Classification Report (Ayudantía 4).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/Ayudant%C3%ADa_4.ipynb)
 
 ## II. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Carrasco_Eduardo.ipynb)
+2. [Tarea 2 - Random Forest / SVM / Knn / Logistic Regression.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea2/tarea2_Carrasco_Eduardo.ipynb)
