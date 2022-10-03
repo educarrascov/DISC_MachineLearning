@@ -18,6 +18,7 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 7. [Cross Validation - Shuffle K Fold (Ayudantía 3).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/Ayudantia3.ipynb)
 8. [Support Vector Machine (Clase 5).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/5.0.%20SVM.ipynb)
 9. [Suppor Vector Machine - Grid Search - Classification Report (Ayudantía 4).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/Ayudant%C3%ADa_4.ipynb)
+10. [Naive Bayes (Clase 6).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/05Aprendizaje_Bayesiano.ipynb)
 
 ## II. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Carrasco_Eduardo.ipynb)
