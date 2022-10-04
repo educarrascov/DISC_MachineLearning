@@ -23,3 +23,4 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 ## II. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Carrasco_Eduardo.ipynb)
 2. [Tarea 2 - Random Forest / SVM / Knn / Logistic Regression.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea2/tarea2_Carrasco_Eduardo.ipynb)
+3. [Tarea 3 - Naive Bayes Classifier.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea3/tarea3_Carrasco_Eduardo.ipynb)
