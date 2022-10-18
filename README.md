@@ -4,6 +4,8 @@ Repositorio creado para el **Curso de Machine Learning (Aprendizaje de Máquinas
 
 Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 
+Ayudante: Carlos Sepúlveda.
+
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
@@ -18,6 +20,7 @@ Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 7. [Introducción a Redes Neuronales (Clase 7).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/0.%20Clases/9.0.%20Intro_Redes_Neuronales.ipynb)
 8. [Implementación del Perceptron (Clase 7).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/0.%20Clases/9.1.%20perceptron.ipynb)
 9. [Usando Redes Neuronales (Clase 8).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/0.%20Clases/10.0.%20Usando_redes_neuronales.ipynb)
+10. [Redes Neuronales Convolucionales CNN (Clase 9).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/0.%20Clases/11.0.%20Redes_neuronales_convolucionales.ipynb)
 
 ## II. Notebook Utilizados en Ayudantías:
 1. [Regresión Logística - Árboles de Decisión - Métodos de Ensamble (Ayudantía 1).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/1.%20Ayudant%C3%ADa1.ipynb)
