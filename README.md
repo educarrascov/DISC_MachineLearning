@@ -4,6 +4,8 @@ Repositorio creado para el **Curso de Machine Learning (Aprendizaje de Máquinas
 
 Profesor: Gonzalo Ruz. Facultad de Ingeniería y Ciencias, UAI.
 
+Ayudante: Carlos Sepúlveda.
+
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
