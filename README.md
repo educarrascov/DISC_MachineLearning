@@ -33,8 +33,7 @@ Ayudante: Carlos Sepúlveda.
 7. [Redes Neuronales - Parte 2 (Ayudantía 7 - Seul Bike - Regression).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/7.%20Seul_data_bike_(NN2).ipynb)
 8. [Redes Neuronales Convolucionales - Parte 1 (Ayudantía 8 - Fashion MNIST - Classification).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/8.%20Ayudant%C3%ADa_NN_V2(con_CNN).ipynb)
 9. [Redes Neuronales Convolucionales - Parte 2 (Ayudantía 9 - CIFAR 10 - Classification).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/9.%20Ayudant%C3%ADa_CNN_2.ipynb)
-10. [Redes Neuronales Convolucionales - Parte 2 (Ayudantía 9 - CIFAR 10 - Classification).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/9.%20Ayudant%C3%ADa_CNN_2.ipynb)
-11. [Redes Neuronales - Long Short Term Memory LSTM (Ayudantía 10 - `Yahoo Finance` - Regression).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/10.%20Ayudant%C3%ADa_LSTM.ipynb)
+10. [Redes Neuronales Recurrentes - Long Short Term Memory LSTM (Ayudantía 10 - `Yahoo Finance` - Regression).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Script/1.%20Ayudant%C3%ADa/10.%20Ayudant%C3%ADa_LSTM.ipynb)
 
 ## III. Desarrollo de Tareas:
 1. [Tarea 1 - Árboles de Decisión (DecisionTreeClassifier).](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea1/tarea1_Carrasco_Eduardo.ipynb)
