@@ -41,4 +41,4 @@ Ayudante: Carlos Sepúlveda.
 3. [Tarea 3 - Naive Bayes Classifier.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea3/tarea3_Carrasco_Eduardo.ipynb)
 4. [Tarea 4 - Uso de Redes Neuronales.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea4/tarea4_Carrasco_Eduardo.ipynb)
 5. [Tarea 5 - Redes Neuronales Convolucionales.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea5/tarea5_eduardocarrascov_final_final_final.ipynb)
-6. [Tarea 6 - Redes Neuronales Recurrentes - LSTM (Regression - Yahoo Finance´.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea6/Tarea_6_eduardo_carrascov.ipynb)
+6. [Tarea 6 - Redes Neuronales Recurrentes - LSTM (Regression - `Yahoo Finance.](https://github.com/educarrascov/DISC_MachineLearning/blob/main/Tareas/tarea6/Tarea_6_eduardo_carrascov.ipynb)
